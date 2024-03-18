@@ -131,8 +131,8 @@
    5. 회피상태-Evade
    6. 사망상태-Death
 2. 스테이트 전환<기존상태 → 전환가능상태>
-   1. <Idle>  -> <Move, Jump, Evade, Attack, Death>
-   2. <Move> → <Idle, Jump, Evade, Attack, Death>
+   1. Idle → <Move, Jump, Evade, Attack, Death>
+   2. <Move>  <Idle, Jump, Evade, Attack, Death>
    3. <Jump> → <Attack, Death>
    4. <Jump> → <Idle, Move, Evade> [지면 착지시 조건부 전환]
    5. <Attack> → <Idle, Move, Jump, Evade, Attack, Death>
