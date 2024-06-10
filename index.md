@@ -7,8 +7,7 @@
 ### 4. [플레이어 ](#4)
 ### 5. [몬스터](#5)
 ### 6. [대표이미지](#6)
-### 7. [관련이미지와 동영상](#7)
-### 8. [Github Blog URL](#8)
+### 7. [Github Blog URL](#7)
 
 ## 1. [개발 업무 담당] <a name ='1'></a>
 * 임형균 : 프로그래밍, 기획, 그래픽요소  
@@ -262,14 +261,8 @@
 <br> <br>
 [목차](#목차)
 <br> <br>
-## 7. 관련이미지와 동영상 <a name ='7'></a>
 
-
-<br> <br>
-[목차](#목차)
-<br> <br>
-
-## 8. [Github Blog URL] <a name ='8'></a>
+## 7. [Github Blog URL] <a name ='8'></a>
 이승현 : lseunghyun.github.io / 임형균 : LimHyeongGyun.github.io
 <br> <br>
 [목차](#목차)
