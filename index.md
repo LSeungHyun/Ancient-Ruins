@@ -84,7 +84,7 @@
    1. 무기 장착시 필요한 힘 스탯을 충족시키지 못할 시, 무기를 제대로 다룰 수 없다는 문구가 뜨며 공격기 대미지 1 고정
    2. 무기 장착시 필요한 힘 스탯을 충족시 무기의 성능 발휘 가능
    3. 약공격: 무기공격력의 100% 대미지
-   4. 강공격: 무기공격력의 150% 대미지
+   4. 강공격: 무기공격력의 1100% 대미지
 ### 3) 방어 시스템
 1. 방패 장착시 패링 가능
 2. 패링 : 몬스터의 공격 처내기 -> 공격방어 및 몬스터 그로기 상태
@@ -173,7 +173,7 @@
 2. 죽음의 기사-기병
 ### 4)드랍 아이템
 1. 실버 ▶일반 몬스터 3 ~ 10, 엘리트 몬스터 10 ~ 20원 랜덤 드랍
-2. 고대의 기억 ▶ 일반 몬스터 10 ~ 30, 엘리트 몬스터 50 ~ 100 랜덤 드랍
+2. 고대의 기억 ▶ 일반 몬스터 10 ~ 30, 엘리트 몬스터 100 ~ 100 랜덤 드랍
 ### 5) 애니메이션 스테이트 ▶몬스터의 액션 흐름을 애니메이션 상태 머신으로 구현
 1. 몬스터 공용 애니메이션 스테이트
    1. 대기상태 - Idle
@@ -213,7 +213,7 @@
    1. 플레이어와 일정거리 이상 멀리 있을 시 추격
    2. 플레이어가 공격 사거리에 있을 시 공격 액션
 3. 체력 판단
-   1. 체력 50% 이하로 떨어질 시
+   1. 체력 100% 이하로 떨어질 시
       1-1. 데스나이트 : 공격패턴 추가
       1-2. 죽음의 기사 : 기마병 해제, Toon 죽음의 기사 소환
 
@@ -228,27 +228,27 @@
 |연번|종류|OBJ한글이름|사용처|이미지|
 |------|-----|-----|-----|---|
 |1|플레이어|마크루인|공통|<img src="./img/마크루인.png" width="100" heigh="100">|
-|2|무기|고대의 삽|플레이어|<img src="./img/고대의 삽.png" width="50" heigh="50">|
-|3|무기|녹슨 검|플레이어|<img src="./img/녹슨검.png" width="50" heigh="50">|
-|4|무기|롱소드|플레이어|<img src="./img/롱소드.png" width="50" heigh="50">|
-|5|무기|메이스|플레이어|<img src="./img/메이스.png" width="50" heigh="50">|
-|6|무기|묠니르|플레이어|<img src="./img/묠니르.png" width="50" heigh="50">|
-|7|무기|소방도끼|플레이어|<img src="./img/소방도끼.png" width="50" heigh="50">|
-|8|무기|전투도끼|플레이어|<img src="./img/전투도끼.png" width="50" heigh="50">|
-|9|방패|낡은 원형방패|플레이어|<img src="./img/낡은 원형방패.png" width="50" heigh="50">|
-|10|방패|바이킹 방패|플레이어|<img src="./img/바이킹 방패.png" width="50" heigh="50">|
-|11|방패|부숴진 문 방패|플레이어|<img src="./img/부숴진 문 방패.png" width="50" heigh="50">|
-|12|방패|원형방패|플레이어|<img src="./img/원형방패.png" width="50" heigh="50">|
-|12|아이템|드레이크의 피|플레이어|<img src="./img/드레이크의 피.png" width="50" heigh="50">|
-|13|아이템|AncientMemorie|플레이어|<img src="./img/AncientMemorie.png" width="50" heigh="50">|
-|14|일반몬스터|CatFish|스테이지|<img src="./img/Catfish.png" width="50" heigh="50">|
-|15|일반몬스터|Dullahan|스테이지|<img src="./img/Dullahan.png" width="50" heigh="50">|
-|16|일반몬스터|Scavanger|스테이지|<img src="./img/Scavanger.png" width="50" heigh="50">|
-|17|엘리트몬스터|Demon|스테이지|<img src="./img/Demon.png" width="50" heigh="50">|
-|18|엘리트몬스터|Minotaur|스테이지|<img src="./img/Minotaur.png" width="50" heigh="50">|
-|19|보스몬스터|DarkKnight|스테이지|<img src="./img/DarkKnight.png" width="50" heigh="50">|
-|20|보스몬스터|UndeadHorse|스테이지|<img src="./img/UndeadKnight.png" width="50" heigh="50">|
-|21|보스몬스터|ToonUndeadKnight|스테이지|<img src="./img/ToonUndeadKnight.png" width="50" heigh="50">|
+|2|무기|고대의 삽|플레이어|<img src="./img/고대의 삽.png" width="100" heigh="100">|
+|3|무기|녹슨 검|플레이어|<img src="./img/녹슨검.png" width="100" heigh="100">|
+|4|무기|롱소드|플레이어|<img src="./img/롱소드.png" width="100" heigh="100">|
+|5|무기|메이스|플레이어|<img src="./img/메이스.png" width="100" heigh="100">|
+|6|무기|묠니르|플레이어|<img src="./img/묠니르.png" width="100" heigh="100">|
+|7|무기|소방도끼|플레이어|<img src="./img/소방도끼.png" width="100" heigh="100">|
+|8|무기|전투도끼|플레이어|<img src="./img/전투도끼.png" width="100" heigh="100">|
+|9|방패|낡은 원형방패|플레이어|<img src="./img/낡은 원형방패.png" width="100" heigh="100">|
+|10|방패|바이킹 방패|플레이어|<img src="./img/바이킹 방패.png" width="100" heigh="100">|
+|11|방패|부숴진 문 방패|플레이어|<img src="./img/부숴진 문 방패.png" width="100" heigh="100">|
+|12|방패|원형방패|플레이어|<img src="./img/원형방패.png" width="100" heigh="100">|
+|12|아이템|드레이크의 피|플레이어|<img src="./img/드레이크의 피.png" width="100" heigh="100">|
+|13|아이템|AncientMemorie|플레이어|<img src="./img/AncientMemorie.png" width="100" heigh="100">|
+|14|일반몬스터|CatFish|스테이지|<img src="./img/Catfish.png" width="100" heigh="100">|
+|15|일반몬스터|Dullahan|스테이지|<img src="./img/Dullahan.png" width="100" heigh="100">|
+|16|일반몬스터|Scavanger|스테이지|<img src="./img/Scavanger.png" width="100" heigh="100">|
+|17|엘리트몬스터|Demon|스테이지|<img src="./img/Demon.png" width="100" heigh="100">|
+|18|엘리트몬스터|Minotaur|스테이지|<img src="./img/Minotaur.png" width="100" heigh="100">|
+|19|보스몬스터|DarkKnight|스테이지|<img src="./img/DarkKnight.png" width="100" heigh="100">|
+|20|보스몬스터|UndeadHorse|스테이지|<img src="./img/UndeadKnight.png" width="100" heigh="100">|
+|21|보스몬스터|ToonUndeadKnight|스테이지|<img src="./img/ToonUndeadKnight.png" width="100" heigh="100">|
 
 
 <br> <br>
