@@ -262,7 +262,7 @@
 [목차](#목차)
 <br> <br>
 
-## 7. [Github Blog URL] <a name ='8'></a>
+## 7. [Github Blog URL] <a name ='7'></a>
 이승현 : lseunghyun.github.io / 임형균 : LimHyeongGyun.github.io
 <br> <br>
 [목차](#목차)
