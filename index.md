@@ -241,6 +241,16 @@
 |12|방패|원형방패|플레이어|<img src="./img/원형방패.png" width="50" heigh="50">|
 |12|아이템|드레이크의 피|플레이어|<img src="./img/드레이크의피.png" width="50" heigh="50">|
 |13|아이템|AncientMemorie|플레이어|<img src="./img/AncientMemorie.png" width="50" heigh="50">|
+|14|일반몬스터|CatFish|스테이지|<img src="./img/Catfish.png" width="50" heigh="50">|
+|15|일반몬스터|Dullahan|스테이지|<img src="./img/Dullahan.png" width="50" heigh="50">|
+|16|일반몬스터|Scavanger|스테이지|<img src="./img/Scavanger.png" width="50" heigh="50">|
+|17|엘리트몬스터|Demon|스테이지|<img src="./img/Demon.png" width="50" heigh="50">|
+|18|엘리트몬스터|Minotaur|스테이지|<img src="./img/Minotaur.png" width="50" heigh="50">|
+|19|보스몬스터|DarkKnight|스테이지|<img src="./img/DarkKnight.png" width="50" heigh="50">|
+|20|보스몬스터|UndeadHorse|스테이지|<img src="./img/UndeadHorse.png" width="50" heigh="50">|
+|21|보스몬스터|ToonUndeadKnight|스테이지|<img src="./img/ToonUndeadKnight.png" width="50" heigh="50">|
+
+
 <br> <br>
 [목차](#목차)
 <br> <br>
