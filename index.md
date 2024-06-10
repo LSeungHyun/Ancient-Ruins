@@ -228,7 +228,7 @@
 |연번|종류|OBJ한글이름|사용처|이미지|
 |------|-----|-----|-----|---|
 |1|플레이어|마크루인|공통|<img src="./img/마크루인.png" width="50" heigh="50">|
-|2|무기|고대의 삽|플레이어|<img src="./img/고대의삽.png" width="50" heigh="50">|
+|2|무기|고대의 삽|플레이어|<img src="./img/고대의 삽.png" width="50" heigh="50">|
 |3|무기|녹슨 검|플레이어|<img src="./img/녹슨검.png" width="50" heigh="50">|
 |4|무기|롱소드|플레이어|<img src="./img/롱소드.png" width="50" heigh="50">|
 |5|무기|메이스|플레이어|<img src="./img/메이스.png" width="50" heigh="50">|
