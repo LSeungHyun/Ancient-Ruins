@@ -223,6 +223,24 @@
 ## 6. 대표 이미지 <a name ='6'></a>
 <img src="./img/MainImg.png" width="200" heigh="200">
 
+## 1. 게임 오브젝트 분해 (구성 요소 분석)
+
+|연번|종류|OBJ한글이름|사용처|이미지|
+|------|-----|-----|-----|---|
+|1|플레이어|마크루인|공통|<img src="./img/마크루인.png" width="50" heigh="50">|
+|2|무기|고대의 삽|플레이어|<img src="./img/고대의삽.png" width="50" heigh="50">|
+|3|무기|녹슨 검|플레이어|<img src="./img/녹슨검.png" width="50" heigh="50">|
+|4|무기|롱소드|플레이어|<img src="./img/롱소드.png" width="50" heigh="50">|
+|5|무기|메이스|플레이어|<img src="./img/메이스.png" width="50" heigh="50">|
+|6|무기|묠니르|플레이어|<img src="./img/묠니르.png" width="50" heigh="50">|
+|7|무기|소방도끼|플레이어|<img src="./img/소방도끼.png" width="50" heigh="50">|
+|8|무기|전투도끼|플레이어|<img src="./img/전투도끼.png" width="50" heigh="50">|
+|9|방패|낡은 원형방패|플레이어|<img src="./img/낡은원형방패.png" width="50" heigh="50">|
+|10|방패|바이킹 방패|플레이어|<img src="./img/바이킹방패.png" width="50" heigh="50">|
+|11|방패|부숴진 문 방패|플레이어|<img src="./img/부숴진문방패.png" width="50" heigh="50">|
+|12|방패|원형방패|플레이어|<img src="./img/원형방패.png" width="50" heigh="50">|
+|12|아이템|드레이크의 피|플레이어|<img src="./img/드레이크의피.png" width="50" heigh="50">|
+|13|아이템|AncientMemorie|플레이어|<img src="./img/AncientMemorie.png" width="50" heigh="50">|
 <br> <br>
 [목차](#목차)
 <br> <br>
