@@ -221,13 +221,13 @@
 [목차](#목차)
 <br> <br>
 ## 6. 대표 이미지 <a name ='6'></a>
-<img src="./img/MainImg.png" width="200" heigh="200">
+<img src="./img/MainImg.png" width="300" heigh="300">
 
 ## 1. 게임 오브젝트 분해 (구성 요소 분석)
 
 |연번|종류|OBJ한글이름|사용처|이미지|
 |------|-----|-----|-----|---|
-|1|플레이어|마크루인|공통|<img src="./img/마크루인.png" width="50" heigh="50">|
+|1|플레이어|마크루인|공통|<img src="./img/마크루인.png" width="100" heigh="100">|
 |2|무기|고대의 삽|플레이어|<img src="./img/고대의 삽.png" width="50" heigh="50">|
 |3|무기|녹슨 검|플레이어|<img src="./img/녹슨검.png" width="50" heigh="50">|
 |4|무기|롱소드|플레이어|<img src="./img/롱소드.png" width="50" heigh="50">|
@@ -247,7 +247,7 @@
 |17|엘리트몬스터|Demon|스테이지|<img src="./img/Demon.png" width="50" heigh="50">|
 |18|엘리트몬스터|Minotaur|스테이지|<img src="./img/Minotaur.png" width="50" heigh="50">|
 |19|보스몬스터|DarkKnight|스테이지|<img src="./img/DarkKnight.png" width="50" heigh="50">|
-|20|보스몬스터|UndeadHorse|스테이지|<img src="./img/UndeadHorse.png" width="50" heigh="50">|
+|20|보스몬스터|UndeadHorse|스테이지|<img src="./img/UndeadKnight.png" width="50" heigh="50">|
 |21|보스몬스터|ToonUndeadKnight|스테이지|<img src="./img/ToonUndeadKnight.png" width="50" heigh="50">|
 
 
