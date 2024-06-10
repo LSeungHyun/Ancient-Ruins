@@ -8,7 +8,7 @@
 ### 5. [몬스터](#5)
 ### 6. [대표이미지](#6)
 ### 7. [관련이미지와 동영상](#7)
-### 8. [작업결과](#8)
+### 8. [](#8)
 ### 9. [Github Blog URL](#9)
 
 ## 1. [개발 업무 담당] <a name ='1'></a>
@@ -27,7 +27,7 @@
 주인공 '마크 루인'은 떠돌이 용병생활을 하며 돌아다니던 어느 날 한 마을에 진입하게 되는데 진입한 마을은 주민이 한명도 살지 않는 폐허였다. 폐허를 탐사하던 도중 몬스터와 마주하고 마을의 깊숙한 곳 까지 당도하게 되는데, 오래된 고대유적을 발견하게 되었다. 그렇게 유적을 탐사하던 중 유적을 지키는 주술에 걸린 마물들을 물리치며 유적의 깊숙한 곳을 향한다. 과연 '마크 루인'은 유적의 주인을 당도하고 살아남아 유물을 얻을 수 있을것인가.
 ### 4) 게임 볼륨
 * 맵 1개당 플레이타임 10분~20분
-* 2개의 스테이지로 구성
+* 2개의 Stage로 구성
 * 각 스테이지 마다 보스 스테이지 배치
 ### 5) 씬 구성
 * 1스테이지 -> 폐허, 지하감옥, 유적재단(1스테이지 보스)
@@ -241,15 +241,25 @@
 |12|방패|원형방패|플레이어|<img src="./img/원형방패.png" width="100" heigh="100">|
 |12|아이템|드레이크의 피|플레이어|<img src="./img/드레이크의 피.png" width="100" heigh="100">|
 |13|아이템|AncientMemorie|플레이어|<img src="./img/AncientMemorie.png" width="100" heigh="100">|
-|14|일반몬스터|CatFish|스테이지|<img src="./img/Catfish.png" width="100" heigh="100">|
-|15|일반몬스터|Dullahan|스테이지|<img src="./img/Dullahan.png" width="100" heigh="100">|
-|16|일반몬스터|Scavanger|스테이지|<img src="./img/Scavanger.png" width="100" heigh="100">|
-|17|엘리트몬스터|Demon|스테이지|<img src="./img/Demon.png" width="100" heigh="100">|
-|18|엘리트몬스터|Minotaur|스테이지|<img src="./img/Minotaur.png" width="100" heigh="100">|
-|19|보스몬스터|DarkKnight|스테이지|<img src="./img/DarkKnight.png" width="100" heigh="100">|
-|20|보스몬스터|UndeadHorse|스테이지|<img src="./img/UndeadKnight.png" width="100" heigh="100">|
-|21|보스몬스터|ToonUndeadKnight|스테이지|<img src="./img/ToonUndeadKnight.png" width="100" heigh="100">|
-
+|14|일반몬스터|CatFish|Stage|<img src="./img/Catfish.png" width="100" heigh="100">|
+|15|일반몬스터|Dullahan|Stage|<img src="./img/Dullahan.png" width="100" heigh="100">|
+|16|일반몬스터|Scavanger|Stage|<img src="./img/Scavanger.png" width="100" heigh="100">|
+|17|엘리트몬스터|Demon|Stage|<img src="./img/Demon.png" width="100" heigh="100">|
+|18|엘리트몬스터|Minotaur|Stage|<img src="./img/Minotaur.png" width="100" heigh="100">|
+|19|보스몬스터|DarkKnight|Stage|<img src="./img/DarkKnight.png" width="100" heigh="100">|
+|20|보스몬스터|UndeadHorse|Stage|<img src="./img/UndeadKnight.png" width="100" heigh="100">|
+|21|보스몬스터|ToonUndeadKnight|Stage|<img src="./img/ToonUndeadKnight.png" width="100" heigh="100">|
+|22|UI|1Stage01|Stage|<img src="./img/1스테이지01.png" width="100" heigh="100">|
+|23|UI|1Stage02|Stage|<img src="./img/1스테이지02.png" width="100" heigh="100">|
+|24|UI|2Stage|Stage|<img src="./img/2스테이지.png" width="100" heigh="100">|
+|25|UI|1보스Stage|Stage|<img src="./img/1보스스테이지.png" width="100" heigh="100">|
+|26|UI|2보스Stage|Stage|<img src="./img/2보스스테이지.png" width="100" heigh="100">|
+|27|UI|보스Stage입구|Stage|<img src="./img/보스스테이지입구.png" width="100" heigh="100">|
+|28|UI|로딩씬|InGame|<img src="./img/로딩씬.png" width="100" heigh="100">|
+|29|UI|베이스캠프|InGame|<img src="./img/베이스캠프.png" width="100" heigh="100">|
+|30|UI|인벤토리|InGame|<img src="./img/인벤토리.png" width="100" heigh="100">|
+|31|UI|조작법|InGame|<img src="./img/인벤토리.png" width="100" heigh="100">|
+|32|UI|사망|InGame|<img src="./img/사망.png" width="100" heigh="100">|
 
 <br> <br>
 [목차](#목차)
