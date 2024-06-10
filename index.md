@@ -235,11 +235,11 @@
 |6|무기|묠니르|플레이어|<img src="./img/묠니르.png" width="50" heigh="50">|
 |7|무기|소방도끼|플레이어|<img src="./img/소방도끼.png" width="50" heigh="50">|
 |8|무기|전투도끼|플레이어|<img src="./img/전투도끼.png" width="50" heigh="50">|
-|9|방패|낡은 원형방패|플레이어|<img src="./img/낡은원형방패.png" width="50" heigh="50">|
-|10|방패|바이킹 방패|플레이어|<img src="./img/바이킹방패.png" width="50" heigh="50">|
-|11|방패|부숴진 문 방패|플레이어|<img src="./img/부숴진문방패.png" width="50" heigh="50">|
+|9|방패|낡은 원형방패|플레이어|<img src="./img/낡은 원형방패.png" width="50" heigh="50">|
+|10|방패|바이킹 방패|플레이어|<img src="./img/바이킹 방패.png" width="50" heigh="50">|
+|11|방패|부숴진 문 방패|플레이어|<img src="./img/부숴진 문 방패.png" width="50" heigh="50">|
 |12|방패|원형방패|플레이어|<img src="./img/원형방패.png" width="50" heigh="50">|
-|12|아이템|드레이크의 피|플레이어|<img src="./img/드레이크의피.png" width="50" heigh="50">|
+|12|아이템|드레이크의 피|플레이어|<img src="./img/드레이크의 피.png" width="50" heigh="50">|
 |13|아이템|AncientMemorie|플레이어|<img src="./img/AncientMemorie.png" width="50" heigh="50">|
 |14|일반몬스터|CatFish|스테이지|<img src="./img/Catfish.png" width="50" heigh="50">|
 |15|일반몬스터|Dullahan|스테이지|<img src="./img/Dullahan.png" width="50" heigh="50">|
